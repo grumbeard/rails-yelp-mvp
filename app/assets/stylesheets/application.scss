@@ -11,3 +11,21 @@
 // Your CSS partials
 @import "components/index";
 @import "pages/index";
+
+
+.restaurant_details {
+  p {
+    margin: 20px;
+    strong {
+      font-weight: bold;
+    }
+  }
+}
+
+.restaurant_reviews {
+  text-align: center;
+}
+
+.review {
+  text-align: left;
+}
